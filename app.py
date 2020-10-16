@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 20 11:56:28 2019
-
-@author: Sabitha Jaleel
-"""
 
 import numpy as np
 from flask import Flask,request,jsonify,render_template
